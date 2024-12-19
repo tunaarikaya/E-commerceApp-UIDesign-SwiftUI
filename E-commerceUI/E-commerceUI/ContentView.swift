@@ -17,7 +17,7 @@ struct ContentView: View {
         }
         .padding()
     }
-}//tt
+}//t
 
 #Preview {
     HomeView()
