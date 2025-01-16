@@ -3,7 +3,7 @@
 //  E-commerceUI
 //
 //  Created by Mehmet Tuna Arıkaya on 14.12.2024.
-//21
+//21s
 
 import SwiftUI
 
